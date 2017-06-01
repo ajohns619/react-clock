@@ -8,5 +8,9 @@ The Babel transformer might misbehave in Chrome because of CORS restrictions, so
 
 ![So Many Clocks](/docs/more-clocks.png)
 
+I did this project during my internship with [Corestone Investment Managers](http://corestone.ch/en/home/ "Corestone Investment Managers") (Summer 2017) to learn React.
+
+See the React docs on lifting state up (as I have done here from the individual clocks to the page class): https://facebook.github.io/react/docs/lifting-state-up.html
+
 This was done in no small part with the help of React's documentation on State and Lifecycle: 
 https://facebook.github.io/react/docs/state-and-lifecycle.html
